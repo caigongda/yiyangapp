@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-		页面 - 1
+		页面 - 1-yiyang
 	</view>
 </template>
 
